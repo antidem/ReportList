@@ -6,7 +6,7 @@ DATABASE info:
 
 connectionString="Datasource=localhost;Database=myprojectdb;uid=root;pwd=ruslan139"
 
-Создание базы, таблицы и запольнение тестовыми данными:
+Создание базы, таблицы и заполнение тестовыми данными:
 
 CREATE DATABASE myprojectdb;
 
