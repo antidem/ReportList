@@ -2,6 +2,12 @@
 WEB API test service (net framework)
 Тестовый сервис. Работа с MySQL.
 
+WCF ReportList :
+https://github.com/antidem/WCFReportList
+
+WCF and WEB API ReportList :
+https://github.com/antidem/AllReportList
+
 DATABASE info:
 
 connectionString="Datasource=localhost;Database=myprojectdb;uid=root;pwd=ruslan139"
